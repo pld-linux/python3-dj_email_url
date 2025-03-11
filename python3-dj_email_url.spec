@@ -2,7 +2,7 @@ Summary:	Use an URL to configure email backend settings in your Django Applicati
 Summary(pl.UTF-8):	Konfigurowanie ustawień backendu e-mail w aplikacji Django przy użyciu URL-a
 Name:		python3-dj_email_url
 Version:	1.0.6
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/dj-email-url/
